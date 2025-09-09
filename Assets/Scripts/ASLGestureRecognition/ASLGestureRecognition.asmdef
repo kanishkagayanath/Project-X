@@ -1,0 +1,17 @@
+{
+    "name": "ASLGestureRecognition",
+    "rootNamespace": "ASLGestureRecognition",
+    "references": [
+        "Unity.Barracuda",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

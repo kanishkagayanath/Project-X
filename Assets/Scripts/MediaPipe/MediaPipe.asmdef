@@ -1,0 +1,16 @@
+{
+    "name": "MediaPipe",
+    "rootNamespace": "ASLGestureRecognition",
+    "references": [
+        "ASLGestureRecognition"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
