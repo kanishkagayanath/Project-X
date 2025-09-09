@@ -70,3 +70,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# ASL System - Exclude large model files (should be downloaded separately)
+Assets/Models/*.onnx
+Assets/Models/*.onnx.meta
+
+# Package lock files (auto-generated)
+Packages/packages-lock.json
